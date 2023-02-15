@@ -50,4 +50,9 @@ body {
     min-height: 2em;
     font-size: 0.67em;
   }
+
+  input,
+  select {
+    border-radius: 5px;
+  }
   
