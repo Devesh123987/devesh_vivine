@@ -1,0 +1,9 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2021/11/19/04/51/temple-6808093__340.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: rgb(72, 39, 143);
+    font-family: Perpetua;
+    font-size: 24px;
+  }
