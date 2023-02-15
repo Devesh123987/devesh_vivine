@@ -55,4 +55,11 @@ body {
   select {
     border-radius: 5px;
   }
+
+  textarea {
+    min-height: 6.33em;
+    resize: vertical;
+  }
+
+
   
