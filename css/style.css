@@ -16,3 +16,7 @@ body {
     margin-top: 0;
     margin-bottom: 2rem;
   }
+
+  .established {
+    font-style: italic;
+  }
