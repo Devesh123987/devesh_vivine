@@ -61,5 +61,13 @@ body {
     resize: vertical;
   }
 
+  input[type="submit"] {
+    background-color: rgb(39, 33, 132);
+    border-color: rgb(255, 215, 0);
+    color: rgb(245, 255, 250);
+    font-size: 1.33rem;
+    min-height: 2.5em;
+  }
+
 
   
